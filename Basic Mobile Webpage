@@ -1,0 +1,41 @@
+<!DOCTYPE>
+<html>
+	<head>
+		<title>Title</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link href="normal.css" rel="stylesheet">
+		<link href="mid.css" rel="stylesheet" media="only screen and (min-width: 600px) and (max-width: 1040px)">
+		<link href="small.css" rel="stylesheet" media="only screen and (max-width: 600px)">
+		<link href="print.css" media="print">
+	</head>
+	<body>
+		<div id="wrapper">
+			<header><h1> Blank</h1>
+			<h3> Something Goes Here  </h3>
+			</header>
+			<nav>
+				<ul>
+					<li><a href="Home.html">Home</a>
+					<li><a href="dummy1.html">Tab</a>
+					<li><a href="dummy2.html">Tab</a>
+				</ul>
+			</nav>
+			<main>
+				<h3></h3>
+				<p></p>
+				<hr>
+				<h3></h3>
+				<p></p>
+				<hr>
+				<h3></h3>
+				<p></p>
+				<hr>
+				
+			</main>
+			</div>
+			<footer>
+			Blank
+			</footer>
+		</body>
+</html>
