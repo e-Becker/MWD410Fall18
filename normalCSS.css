@@ -1,4 +1,4 @@
-body { background-color: ;
+body { background-color:;
     background-image: url();
 }
 #wrapper {background: rgba(0,0,0,0.5);
@@ -47,3 +47,8 @@ footer {width: 80%;
     text-align: center;
 }
 footer h3 {margin: 0;}
+
+
+.PopUpWindow {
+    background-color: red;
+}

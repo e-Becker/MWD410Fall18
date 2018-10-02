@@ -12,3 +12,8 @@ main {margin-left: 0px;
     padding: 5pxa;
 }
 footer {width: 95%;}
+
+.PopUpWindow {
+    background-color: red;
+}
+
