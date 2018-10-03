@@ -13,7 +13,9 @@ main {margin-left: 0px;
 }
 footer {width: 95%;}
 
+/*For editing appearance of the Colorbox popup*/
 .PopUpWindow {
-    background-color: red;
+    background-color: #49adff;
+    text-align: center;
 }
 
