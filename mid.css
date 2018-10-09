@@ -1,18 +1,16 @@
 #wrapper {width: 85%;}
 nav { float: none;
-    width: 100%;
-}
+	width: 100%;
+	}
 nav li {display: inline-block;
-    width: 25%;
-}
+		width: 25%;
+		}
 nav a { border: 2px outset #000;
-    padding: .5em;
-}
+		padding: .5em;
+		}
 main {margin-left: 0px;
-    padding: 5px;
-}
-footer {width: 85%;}
-
+		padding: 5px;
+		}
 /*For editing appearance of the Colorbox popup*/
 .PopUpWindow {
     background-color: #49adff;
