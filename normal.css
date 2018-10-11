@@ -12,22 +12,6 @@ body { background-color: #006989 ;
 			color: white;
             padding-bottom: 10%;
 			}
-/*For Editing the trending Page*/
-#trending { background: #4C76FF;
-    width: 80%;
-    height: 100%;
-
-    color: white;
-    padding-bottom: 100%;
-}
-/*Mostly for the trending page, for editing images*/
-img {
-    border-radius: 8px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
 header {font-family: Stupid Meeting_D;
 		background: url();
 		background-image: url();

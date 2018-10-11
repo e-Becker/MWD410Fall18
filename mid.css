@@ -5,22 +5,7 @@ a
   color: #232323;
   transition: color 0.3s ease;
 }
-/*For Editing the trending Page*/
-#trending { background: #4C76FF;
-  width: 80%;
-  height: 100%;
-  color: white;
-  padding-bottom: 60%;
-  text-align: center;
-}
-/*Mostly for the trending page,editing images*/
-img {
-  border-radius: 8px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
+
 a:hover
 {
   color: tomato;

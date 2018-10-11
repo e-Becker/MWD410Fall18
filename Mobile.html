@@ -30,7 +30,6 @@
       <a href="#"><li>About</li></a>
       <a href="#"><li>Contact</li></a>
       <a href="#"><li>Get More Magazines</li></a>
-		<a href="trending.html"><li>Trending</li></a>
 
     </ul>
   </div>
@@ -69,9 +68,9 @@
 //This creates a cookie so that users do not get the popup every time they visit the page: DISABLED TEMPORARILY
     setTimeout(function(){
         var popupShown = Cookies.get('colorboxShown');
-        if(popupShown){
-            console.log("Cookie found. No action necessary");
-        } else {
+        /*if(popupShown){
+            //console.log("Cookie found. No action necessary");
+        } else*/ {
             lastFocus = document.activeElement;
             displayPopup();
         }

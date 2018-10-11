@@ -6,33 +6,12 @@ a
   color: #232323;
   transition: color 0.3s ease;
 }
-/*For Editing the trending Page*/
-#trending { background: #4C76FF;
-  width: 80%;
-  height: 100%;
 
-  color: white;
-  padding-bottom: 60%;
-}
-/*Mostly for the trending page, for editing images*/
-img {
-  border-radius: 8px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
 a:hover
 {
   color: tomato;
 }
-#trending { background: #4C76FF;
-  width: 80%;
-  height: 100%;
 
-  color: white;
-  padding-bottom: 60%;
-}
 #menuToggle
 {
   display: block;
