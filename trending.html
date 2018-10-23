@@ -4,14 +4,21 @@
     <title>E-Reader</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="normal.css" rel="stylesheet">
-    <link href="mid.css" rel="stylesheet" media="only screen and (min-width: 600px) and (max-width: 1040px)">
-    <link href="small.css" rel="stylesheet" media="only screen and (max-width: 600px)">
+    <link href="StyleSheets/normal.css" rel="stylesheet">
+    <link href="StyleSheets/mid.css" rel="stylesheet" media="only screen and (min-width: 600px) and (max-width: 1040px)">
+    <link href="StyleSheets/small.css" rel="stylesheet" media="only screen and (max-width: 600px)">
     <link href="print.css" media="print">
-
     <!--Color Box Stylesheet-->
     <link rel="stylesheet" href="https://cdn.rawgit.com/jackmoore/colorbox/master/example1/colorbox.css" />
-
+    <!--Scripts-->
+    <!--JQUERY-->
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+    <!--Javascript Cookies-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.3/js.cookie.min.js"></script>
+    <!--ColorBox-->
+    <script src="https://cdn.rawgit.com/jackmoore/colorbox/master/jquery.colorbox-min.js"></script>
+    <!--ColorBox PopUp Window Script-->
+    <script type='text/javascript' src='Scripts/ColorboxPopUp.js'></script>
 </head>
 <body>
 <div id="trending">
@@ -37,45 +44,7 @@
         <h1> IRIS </h1>
         <h3>   The Innovative Reader That's Incomparably Secure </h3>
     </header>
-    <!--JQUERY-->
-    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
-    <!--Javascript Cookies-->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.3/js.cookie.min.js"></script>
-    <!--ColorBox-->
-    <script src="https://cdn.rawgit.com/jackmoore/colorbox/master/jquery.colorbox-min.js"></script>
-    <!--ColorBox PopUp Window Script-->
-    <script>
-        var lastFocus;
-        function onPopupOpen(){
-            $("#myInput").focus();
-        }
-        //returns back to users previous location when they click outside of the popup
-        function onPopupClose(){
-            Cookies.set('colorboxShown', 'yes', { expires: 1 });
-            lastFocus.focus();
-        }
-        //Edit this for HTML, CSS is edited through .PopUpWindow
-        function displayPopup(){
-            $.colorbox({
-                html:"<h2> Please sign up to be notified about latest releases!</h2> <form> Email:<br> <input type='text' name='email'><br><br> <input type='submit' value='submit'</form>",
-                className: "PopUpWindow",
-                width: 450,
-                height: 350,
-                onComplete: onPopupOpen,
-                onClosed: onPopupClose
-            });
-        }
-        //This creates a cookie so that users do not get the popup every time they visit the page: DISABLED TEMPORARILY
-        setTimeout(function(){
-            var popupShown = Cookies.get('colorboxShown');
-            /*if(popupShown){
-                //console.log("Cookie found. No action necessary");
-            } else*/ {
-                lastFocus = document.activeElement;
-                displayPopup();
-            }
-        }, 2000);
-    </script>
+
 
     <main>
         <h1> Currently Trending in the World of Publishing</h1>

@@ -4,7 +4,7 @@
  * Module dependencies.
  */
 
-var app = require('../app');
+var app = require('../Scripts/app');
 var debug = require('debug')('mwd410fall18-master:server');
 var http = require('http');
 
