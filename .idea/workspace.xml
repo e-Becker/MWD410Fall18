@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="eed35ca0-a595-447c-85de-7576a796840c" name="Default Changelist" comment="Editing desktop index file to be more in line with Mobile.">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-=======
-    <list default="true" id="eed35ca0-a595-447c-85de-7576a796840c" name="Default Changelist" comment="">
->>>>>>>  updated
+    <list default="true" id="eed35ca0-a595-447c-85de-7576a796840c" name="Default Changelist" comment=" updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/renderMags.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/StyleSheets/layout.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,45 +13,12 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExportToHTMLSettings">
-    <option name="printScope" value="4" />
-    <option name="OUTPUT_DIRECTORY" value="https://github.com/eSeyana/MWD410Fall18/tree/master" />
-  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1188332433">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="css" value="2" />
-          <entry key="html" value="7" />
-          <entry key="master" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CSS" value="2" />
-          <entry key="HTML" value="8" />
-          <entry key="UNKNOWN" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="css" value="166" />
-          <entry key="html" value="809" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="CSS" value="166" />
-          <entry key="HTML" value="809" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -91,179 +50,42 @@
         </counts>
       </usages-collector>
     </session>
-    <session id="-547014570">
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="txt" value="107" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="107" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="html" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="HTML" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="1343599351">
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="txt" value="46" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="46" />
-        </counts>
-      </usages-collector>
+    <session id="-53754196">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-<<<<<<< HEAD
-          <entry key="project.closed" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="1308408418">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
-=======
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="2" />
->>>>>>>  updated
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="1" />
-          <entry key="js" value="1" />
-<<<<<<< HEAD
-=======
+          <entry key="js" value="3" />
           <entry key="json" value="1" />
           <entry key="xml" value="1" />
->>>>>>>  updated
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="1" />
-<<<<<<< HEAD
-          <entry key="JavaScript" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="html" value="31" />
-          <entry key="js" value="1275" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="HTML" value="31" />
-          <entry key="JavaScript" value="1275" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-97164368">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="html" value="199" />
-          <entry key="js" value="635" />
-          <entry key="json" value="148" />
-          <entry key="txt" value="113" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="HTML" value="199" />
-          <entry key="JSON" value="148" />
-          <entry key="JavaScript" value="635" />
-          <entry key="PLAIN_TEXT" value="113" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="html" value="5" />
-          <entry key="js" value="5" />
-          <entry key="json" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="HTML" value="5" />
           <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="5" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-242100811">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="css" value="1" />
-          <entry key="html" value="1" />
-          <entry key="index" value="1" />
-          <entry key="js" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CSS" value="1" />
-          <entry key="HTML" value="1" />
-          <entry key="JavaScript" value="1" />
-          <entry key="PLAIN_TEXT" value="1" />
-=======
-          <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="1" />
+          <entry key="JavaScript" value="3" />
           <entry key="XML" value="1" />
->>>>>>>  updated
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-<<<<<<< HEAD
-          <entry key="html" value="27" />
-          <entry key="js" value="31" />
-          <entry key="txt" value="65" />
-=======
           <entry key="js" value="35" />
-          <entry key="txt" value="11" />
->>>>>>>  updated
+          <entry key="txt" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-<<<<<<< HEAD
-          <entry key="HTML" value="27" />
-          <entry key="JavaScript" value="31" />
-          <entry key="PLAIN_TEXT" value="65" />
-=======
           <entry key="JavaScript" value="35" />
-          <entry key="PLAIN_TEXT" value="11" />
->>>>>>>  updated
+          <entry key="PLAIN_TEXT" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -273,66 +95,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mobile.html">
+        <entry file="file://$PROJECT_DIR$/test.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+            <state relative-caret-position="119">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/products.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-<<<<<<< HEAD
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="57" column="26" lean-forward="true" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
-              <folding>
-                <element signature="n#style#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-=======
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="121" column="14" selection-start-line="121" selection-start-column="14" selection-end-line="121" selection-end-column="14" />
->>>>>>>  updated
+            <state relative-caret-position="680">
+              <caret line="141" selection-start-line="141" selection-end-line="141" />
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/StyleSheets/layout.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-51" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Scripts/Notification.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-=======
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/login.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
->>>>>>>  updated
+            <state relative-caret-position="34">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/index.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/users.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -356,45 +152,21 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PREVIOUS_COMMIT_AUTHORS">
-      <list>
-        <option value="eSeyana &lt;36671482+eseyana@users.noreply.github.com&gt;" />
-      </list>
-    </option>
-    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/test.html" />
-<<<<<<< HEAD
-        <option value="$PROJECT_DIR$/MobileHTML.html" />
-        <option value="$PROJECT_DIR$/moby-dick.html" />
-        <option value="$PROJECT_DIR$/childrens-lit.html" />
-        <option value="$PROJECT_DIR$/page-blanche.html" />
-        <option value="$PROJECT_DIR$/library/moby-dick.html" />
-        <option value="$PROJECT_DIR$/small.css" />
-        <option value="$PROJECT_DIR$/normal.css" />
-        <option value="$PROJECT_DIR$/Notification.js" />
-        <option value="$PROJECT_DIR$/Scripts/Notification.js" />
-        <option value="$PROJECT_DIR$/library/products.json" />
-        <option value="$PROJECT_DIR$/library/childrens-lit.html" />
-        <option value="$PROJECT_DIR$/Scripts/products.json" />
-        <option value="$PROJECT_DIR$/Mobile.html" />
-        <option value="$PROJECT_DIR$/products.json" />
-        <option value="$PROJECT_DIR$/renderMags.js" />
-        <option value="$PROJECT_DIR$/Scripts/renderMags.js" />
-        <option value="$PROJECT_DIR$/index.html" />
-=======
-        <option value="$PROJECT_DIR$/login.html" />
         <option value="$PROJECT_DIR$/login.js" />
->>>>>>>  updated
+        <option value="$PROJECT_DIR$/login.html" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
@@ -407,19 +179,11 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-<<<<<<< HEAD
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
-=======
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="720" />
     <option name="width" value="935" />
     <option name="height" value="1050" />
->>>>>>>  updated
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -430,23 +194,18 @@
         <subPane>
           <expand>
             <path>
-              <item name="MWD410Fall18B4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MWD410Fall18B4" type="462c0819:PsiDirectoryNode" />
+              <item name="MWD410Fall18" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MWD410Fall18" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MWD410Fall18B4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MWD410Fall18B4" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="MWD410Fall18" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MWD410Fall18" type="462c0819:PsiDirectoryNode" />
+              <item name="codestyles" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MWD410Fall18B4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MWD410Fall18B4" type="462c0819:PsiDirectoryNode" />
-              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MWD410Fall18B4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MWD410Fall18B4" type="462c0819:PsiDirectoryNode" />
-              <item name="StyleSheets" type="462c0819:PsiDirectoryNode" />
+              <item name="MWD410Fall18" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MWD410Fall18" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -456,26 +215,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Owner/Desktop/MWD-total/MWD410Fall18Bravo/Mobile.html" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="8.9.4" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
-  </component>
-  <component name="RecentsManager">
-    <key name="OPEN_URL_DIALOG">
-      <recent name="https://github.com/eSeyana/MWD410Fall18/tree/master" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Owner\Desktop\MWD410Fall18B4\Scripts" />
-      <recent name="C:\Users\Owner\Desktop\MWD410Fall18B4\StyleSheets" />
-      <recent name="C:\Users\Owner\Desktop\MWD-total\MWD410Fall18Bravo" />
-      <recent name="C:\Users\Owner\Desktop\MWD-total\MWD410Fall18Bravo\Scripts" />
-      <recent name="C:\Users\Owner\Desktop\MWD-total\MWD410Fall18Bravo\library" />
-    </key>
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -489,20 +234,6 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.bin\www">
-    <configuration name="renderMags.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="renderMags.js" working-dir="$PROJECT_DIR$/Scripts">
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Node.js.bin\www" />
-      <item itemvalue="Node.js.renderMags.js" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Node.js.renderMags.js" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -515,49 +246,9 @@
       <updated>1537291160950</updated>
       <workItem from="1537291163140" duration="472000" />
       <workItem from="1537308551919" duration="386000" />
-<<<<<<< HEAD
-      <workItem from="1538699180424" duration="149000" />
-      <workItem from="1539226079456" duration="8079000" />
-      <workItem from="1539891212367" duration="5373000" />
-      <workItem from="1540852462957" duration="10795000" />
-      <workItem from="1541103380710" duration="2623000" />
-    </task>
-    <task id="LOCAL-00001" summary="Added selection of EPUBs to Mobile Library">
-      <created>1539234668774</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1539234668774</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Added code for Notification API.">
-      <created>1540866242995</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1540866242995</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Added code for Notification API.">
-      <created>1540866320150</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1540866320150</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Added code for Notification API.">
-      <created>1540866625395</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1540866625395</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
-    <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30720000" />
-=======
       <workItem from="1537743263754" duration="1208000" />
       <workItem from="1539284723894" duration="2221000" />
+      <workItem from="1539287525843" duration="404000" />
     </task>
     <task id="LOCAL-00001" summary="login  form">
       <created>1537743814609</created>
@@ -566,11 +257,18 @@
       <option name="project" value="LOCAL" />
       <updated>1537743814609</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=" updated">
+      <created>1539287575616</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1539287575616</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4287000" />
+    <option name="totallyTimeSpent" value="4691000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -580,32 +278,27 @@
       <are-packages-shown value="true" />
       <is-autoscroll-to-source value="true" />
     </todo-panel>
->>>>>>>  updated
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
-      <window_info id="npm" order="1" side_tool="true" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.2724359" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13813615" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32968238" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893162" weight="0.32968238" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978093" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49966952" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" weight="0.32968238" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50106835" side_tool="true" weight="0.32968238" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50033045" side_tool="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-<<<<<<< HEAD
-      <window_info active="true" anchor="bottom" id="Messages" order="11" sideWeight="0.49893162" visible="true" weight="0.32968238" />
-=======
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32907802" />
->>>>>>>  updated
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -618,133 +311,41 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-<<<<<<< HEAD
-    <MESSAGE value="Embedded Bibi in MobileHTML. Changed Nav element to Bibi temp. Added bib folder." />
-    <MESSAGE value="Added selection of EPUBs to Mobile Library" />
-    <MESSAGE value="Added code for Notification API." />
-    <MESSAGE value="Added code for Dynamically Adding Magazines. Still a work in progress." />
-    <MESSAGE value="Editing desktop index file to be more in line with Mobile." />
-    <option name="LAST_COMMIT_MESSAGE" value="Editing desktop index file to be more in line with Mobile." />
-=======
     <MESSAGE value="login  form" />
-    <option name="LAST_COMMIT_MESSAGE" value="login  form" />
->>>>>>>  updated
+    <MESSAGE value=" updated" />
+    <option name="LAST_COMMIT_MESSAGE" value=" updated" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.795/app.js" />
-    <entry file="https://github.com/eSeyana/MWD410Fall18/tree/master">
-      <provider selected="true" editor-type-id="httpFileEditor" />
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MobileHTML.html" />
-    <entry file="file://$PROJECT_DIR$/small.css" />
-    <entry file="file://$PROJECT_DIR$/normal.css" />
-    <entry file="file://$PROJECT_DIR$/test.html" />
-    <entry file="file://$PROJECT_DIR$/Notification.js" />
+    <entry file="file://$PROJECT_DIR$/editor.codeinsight.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="141" selection-start-line="141" selection-end-line="141" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/routes/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/users.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/library/moby-dick.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/library/page-blanche.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1360">
-          <caret line="80" column="106" selection-start-line="80" selection-start-column="106" selection-end-line="80" selection-end-column="106" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/library/childrens-lit.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="66" column="9" lean-forward="true" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../VGMFinal/sheetjs.js" />
-    <entry file="file://$PROJECT_DIR$/index">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1377" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mobile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/renderMags.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="12" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StyleSheets/layout.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/renderMags.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/Notification.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="323">
-          <caret line="57" column="26" lean-forward="true" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
-          <folding>
-            <element signature="n#style#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-=======
-        <state relative-caret-position="34">
-          <caret line="121" column="14" selection-start-line="121" selection-start-column="14" selection-end-line="121" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/editor.codeinsight.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/login.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
->>>>>>>  updated
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
