@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="eed35ca0-a595-447c-85de-7576a796840c" name="Default Changelist" comment="Editing desktop index file to be more in line with Mobile.">
       <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+=======
+    <list default="true" id="eed35ca0-a595-447c-85de-7576a796840c" name="Default Changelist" comment="">
+>>>>>>>  updated
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Scripts/renderMags.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index" beforeDir="false" />
@@ -122,6 +126,7 @@
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+<<<<<<< HEAD
           <entry key="project.closed" value="1" />
         </counts>
       </usages-collector>
@@ -132,17 +137,29 @@
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
+=======
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
+>>>>>>>  updated
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="1" />
           <entry key="js" value="1" />
+<<<<<<< HEAD
+=======
+          <entry key="json" value="1" />
+          <entry key="xml" value="1" />
+>>>>>>>  updated
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="1" />
+<<<<<<< HEAD
           <entry key="JavaScript" value="1" />
         </counts>
       </usages-collector>
@@ -218,22 +235,39 @@
           <entry key="HTML" value="1" />
           <entry key="JavaScript" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
+=======
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="1" />
+          <entry key="XML" value="1" />
+>>>>>>>  updated
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="html" value="27" />
           <entry key="js" value="31" />
           <entry key="txt" value="65" />
+=======
+          <entry key="js" value="35" />
+          <entry key="txt" value="11" />
+>>>>>>>  updated
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="HTML" value="27" />
           <entry key="JavaScript" value="31" />
           <entry key="PLAIN_TEXT" value="65" />
+=======
+          <entry key="JavaScript" value="35" />
+          <entry key="PLAIN_TEXT" value="11" />
+>>>>>>>  updated
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
     </session>
   </component>
   <component name="FileEditorManager">
@@ -256,6 +290,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -265,10 +300,18 @@
                 <element signature="n#style#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="121" column="14" selection-start-line="121" selection-start-column="14" selection-end-line="121" selection-end-column="14" />
+>>>>>>>  updated
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/StyleSheets/layout.css">
           <provider selected="true" editor-type-id="text-editor">
@@ -281,8 +324,25 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="414">
               <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/login.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+>>>>>>>  updated
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/editor.codeinsight.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -308,6 +368,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/test.html" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/MobileHTML.html" />
         <option value="$PROJECT_DIR$/moby-dick.html" />
         <option value="$PROJECT_DIR$/childrens-lit.html" />
@@ -325,6 +386,10 @@
         <option value="$PROJECT_DIR$/renderMags.js" />
         <option value="$PROJECT_DIR$/Scripts/renderMags.js" />
         <option value="$PROJECT_DIR$/index.html" />
+=======
+        <option value="$PROJECT_DIR$/login.html" />
+        <option value="$PROJECT_DIR$/login.js" />
+>>>>>>>  updated
       </list>
     </option>
   </component>
@@ -342,10 +407,17 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="720" />
+    <option name="width" value="935" />
+    <option name="height" value="1050" />
+>>>>>>>  updated
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -443,6 +515,7 @@
       <updated>1537291160950</updated>
       <workItem from="1537291163140" duration="472000" />
       <workItem from="1537308551919" duration="386000" />
+<<<<<<< HEAD
       <workItem from="1538699180424" duration="149000" />
       <workItem from="1539226079456" duration="8079000" />
       <workItem from="1539891212367" duration="5373000" />
@@ -482,6 +555,32 @@
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="30720000" />
+=======
+      <workItem from="1537743263754" duration="1208000" />
+      <workItem from="1539284723894" duration="2221000" />
+    </task>
+    <task id="LOCAL-00001" summary="login  form">
+      <created>1537743814609</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1537743814609</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4287000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+>>>>>>>  updated
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
@@ -497,12 +596,16 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978093" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" weight="0.32968238" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50106835" side_tool="true" weight="0.32968238" />
       <window_info anchor="bottom" id="Terminal" order="10" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Messages" order="11" sideWeight="0.49893162" visible="true" weight="0.32968238" />
+=======
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32907802" />
+>>>>>>>  updated
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -515,12 +618,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
     <MESSAGE value="Embedded Bibi in MobileHTML. Changed Nav element to Bibi temp. Added bib folder." />
     <MESSAGE value="Added selection of EPUBs to Mobile Library" />
     <MESSAGE value="Added code for Notification API." />
     <MESSAGE value="Added code for Dynamically Adding Magazines. Still a work in progress." />
     <MESSAGE value="Editing desktop index file to be more in line with Mobile." />
     <option name="LAST_COMMIT_MESSAGE" value="Editing desktop index file to be more in line with Mobile." />
+=======
+    <MESSAGE value="login  form" />
+    <option name="LAST_COMMIT_MESSAGE" value="login  form" />
+>>>>>>>  updated
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.795/app.js" />
@@ -613,12 +721,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="323">
           <caret line="57" column="26" lean-forward="true" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
           <folding>
             <element signature="n#style#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="34">
+          <caret line="121" column="14" selection-start-line="121" selection-start-column="14" selection-end-line="121" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editor.codeinsight.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+>>>>>>>  updated
         </state>
       </provider>
     </entry>
