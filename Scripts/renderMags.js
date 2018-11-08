@@ -13,7 +13,7 @@ $(window).load(function () {
         $('.mag-deposit').append(magList).html();
     });
 });
-*/
+
 var data = {
     "products": [
         {
@@ -40,3 +40,56 @@ data.products.forEach( function(obj){
     img.setAttribute("class", "banner-img");
     document.getElementById("introblocks").appendChild(img);
 });
+*/
+
+const eproducts = [
+    {
+        magName: "NOMS",
+        genre: "Food",
+        magLink: "library/NOMS.html",
+        imgPath:"images/noms/titlepage.jpg"
+    },
+    {
+        magName: "Trendsetter",
+        genre: "Fashion",
+        magLink: "library/trendsetter.html",
+        imgPath:"images/trendsetter/titlepage.jpg"
+    },
+    {
+        magName: "ModernFoodie",
+        genre: "Food",
+        magLink: "library/modernfoodie.html",
+        imgPath:"images/modern-foodie/titlepage.jpg"
+    },
+    {
+        magName: "Connoisseur",
+        genre: "Food",
+        magLink: "library/connoisseur.html",
+        imgPath:"images/connoisseur/titlepage.jpg"
+    }
+];
+
+window.onload = function() {
+    document.getElementById("introblocks").innerHTML = `
+    <h6 class="heading btmspace-50">eMagazines (${eproducts.length} results)</h6>
+    <p class="footer">These ${eproducts.length} eMagazines were added recently. Check back soon for updates.</p>
+    <ul class="nospace group">
+    ${eproducts.map(function(tempMag) {
+        return `
+        <li class="one_third">
+        <article>
+            <div class="emag">
+                <h6 class="heading">${tempMag.magName}</h6>
+                    <p> Click to read </p>
+            </div>
+                <a href="${tempMag.magLink}" class="button" margin="100px">
+                    <img class="imgMag" src="${tempMag.imgPath}">
+                </a>
+            <footer><a href="#">More Details</a></footer>
+        </article>
+        </li>
+        `
+    }).join('')}  
+    </ul>
+    `
+}
