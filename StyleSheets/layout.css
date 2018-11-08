@@ -61,7 +61,7 @@
 .sectiontitle *{margin:0;}
 
 #introblocks{position:relative; z-index:1;}
-#introblocks > ul{display:block; margin:-200px 0 80px;}
+#introblocks > ul{display:block; margin:50px  80px;}
 #introblocks > ul > li{text-align:center;}
 #introblocks > ul > li > article{display:inline-block; width:100%; max-width:320px; text-align:left;}
 #introblocks > ul > li > article > div{padding:30px 20px;}
