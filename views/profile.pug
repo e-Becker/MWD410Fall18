@@ -1,0 +1,138 @@
+extends layout
+
+block content
+  .wrapper.row0
+    #topbar.hoc.clear 
+  .wrapper.row1
+    header#header.hoc.clear
+      #logo.fl_left
+        h1
+          a(href='index.html') Welcome to Iris
+  .wrapper.row2
+    nav#mainav.hoc.clear
+      ul.clear
+        li.active
+          a(href='about') Home
+        if !currentUser
+          li
+            a.nav-item.nav-link(href='register') Sign Up
+        li
+          a(href='profile') My Library
+        li
+          a(href='contact') Contact
+        if currentUser
+          div
+            img.avatar.img-circle.hidden-xs-down(src='/images/avatar.png', alt='avatar')
+            a.btn.btn-light.pull-md-right(style='padding: 1rem;', href='/logout') Log out
+        else  
+          a.btn.btn-info.pull-md-right(style='padding: 1rem;', href='login') Login
+        
+
+  .wrapper.bgded.overlay(style="background-image:url('images/cbp/backgrounds/poly.jpg');")
+    #pageintro.hoc.clear
+      article.introtxt
+        h2.heading Iris The Innovative E-reader Website
+        p
+        footer
+          ul.nospace.inline.pushright
+            li
+              a.btn(href='#') Books
+            li
+              a.btn.inverse(href='#') Social
+
+  .wrapper.row3
+    main.hoc.container.clear
+      .center.btmspace-80
+        h2.userblocks
+      .clear
+  .wrapper.row4
+    .hoc.container.clear
+      ul.nospace.elements
+        li.one_third.first
+          article
+            figure
+              img(src='images/cbp/moby.jpg' alt='')
+              figcaption
+                a(href='#') Read &raquo;
+            .txtwrap
+              h6.heading Moby Dick
+              p Something Goes Here etc&mldr;
+        li.one_third
+          article
+            figure
+              img(src='images/cbp/literature.png' alt='')
+              figcaption
+                a(href='#') Read &raquo;
+            .txtwrap
+              h6.heading Children&apos;s Literature
+              p Something Goes Here etc&mldr;
+        li.one_third
+          article
+            figure
+              img(src='images/cbp/blanche.jpg' alt='')
+              figcaption
+                a(href='#') Read &raquo;
+            .txtwrap
+              h6.heading La Page Blanche
+              p Something Goes Here etc&mldr;
+      .clear
+  .wrapper.row3
+    main.hoc.container.clear
+      .center.btmspace-80
+        p.nospace
+          a(href='#') Recommendations on ebooks and emags?
+        br
+        h3.heading.font-x3 Check here to keep updated!
+      .group.center
+        article.one_quarter.first
+          i.icon.fa.fa-balance-scale
+          h4.font-x1.uppercase
+            a(href='#') Videos
+          p  Something Goes Here
+        article.one_quarter
+          i.icon.fa.fa-bank
+          h4.font-x1.uppercase
+            a(href='#') News
+          p Something Goes Here
+        article.one_quarter
+          i.icon.fa.fa-plane
+          h4.font-x1.uppercase
+            a(href='#') More Ebooks
+          p Something Goes Here
+        article.one_quarter
+          i.icon.fa.fa-graduation-cap
+          h4.font-x1.uppercase
+            a(href='#') More Emags
+          p Something Goes Here
+      .clear
+  .wrapper.row0
+    .hoc.container.clear
+      ul.nospace.elements
+        li.one_third.first
+          article.center
+            a(href='#')
+              img(src='images/cbp/noms.jpg' alt='')
+            .txtwrap
+              h6.heading Noms
+              p Description &mldr;
+              footer
+                a(href='#') Read More &raquo;
+        li.one_third
+          article.center
+            a(href='#')
+              img(src='images/cbp/modernf.jpg' alt='')
+            .txtwrap
+              h6.heading Modern Foodie
+              p Description &mldr;
+              footer
+                a(href='#') Read More &raquo;
+        li.one_third
+          article.center
+            a(href='#')
+              img(src='images/cbp/food.jpg' alt='')
+            .txtwrap
+              h6.heading The Food Mag
+              p Description &mldr;
+              footer
+                a(href='#') Read More &raquo;
+      .clear

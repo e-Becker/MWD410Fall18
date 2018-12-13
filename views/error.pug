@@ -1,0 +1,36 @@
+extends layout
+
+block content
+  .wrapper.row0
+    #topbar.hoc.clear
+  .wrapper.row1
+    header#header.hoc.clear
+      #logo.fl_left
+        h1
+          a(href='about') Welcome to Iris
+  .wrapper.row2
+    nav#mainav.hoc.clear
+      ul.clear
+        li.active
+          a(href='about') Home
+        if !currentUser
+          li
+            a.nav-item.nav-link(href='register') Sign Up
+        li
+          a(href='profile') My Library
+        li
+          a(href='contact') Contact
+        if currentUser
+          div
+            img.avatar.img-circle.hidden-xs-down(src='/images/avatar.png', alt='avatar')
+            a.btn.btn-light.pull-md-right(style='padding: 1rem;', href='/logout') Log out
+        else  
+          a.btn.btn-info.pull-md-right(style='padding: 1rem;', href='login') Login
+
+        
+  .wrapper.bgded.overlay(style="background-image:url('images/cbp/backgrounds/poly.jpg');")
+    #pageintro.hoc.clear
+      article.introtxt
+        h2.heading
+        i.icn-person.material-icons(style='text-shadow: 2px 2px #000;') error
+        p.lead.m-t-2(style='text-shadow: 2px 2px #000;')= message 

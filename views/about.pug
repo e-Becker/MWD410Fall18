@@ -1,0 +1,76 @@
+extends layout
+
+block content
+  .wrapper.row0
+    #topbar.hoc.clear
+  .wrapper.row1
+    header#header.hoc.clear
+      #logo.fl_left
+        h1
+          a(href='about') Welcome to Iris
+  .wrapper.row2
+    nav#mainav.hoc.clear
+      ul.clear
+        li.active
+          a(href='about') Home
+        if !currentUser
+          li
+            a.nav-item.nav-link(href='register') Sign Up
+        li
+          a(href='profile') My Library
+        li
+          a(href='contact') Contact
+        if currentUser
+          div
+            img.avatar.img-circle.hidden-xs-down(src='/images/avatar.png', alt='avatar')
+            a.btn.btn-light.pull-md-right(style='padding: 1rem;', href='/logout') Log out
+        else  
+          a.btn.btn-info.pull-md-right(style='padding: 1rem;', href='login') Login
+
+        
+  .wrapper.bgded.overlay(style="background-image:url('images/cbp/backgrounds/poly.jpg');")
+    #pageintro.hoc.clear
+      article.introtxt
+        h2.heading
+          | Iris: The Innovative 
+          br
+          |  E-reader Website
+        p
+        footer
+          ul.nospace.inline.pushright
+            li
+              a.btn(href='#') Books
+            li
+              a.btn.inverse(href='#') Social
+  .wrapper.row3
+    main.hoc.container.clear
+      .center.btmspace-80
+        p.nospace
+          a(href='#') Recommendations on ebooks and emags?
+        br
+        h3.heading.font-x3 Sign up to start collecting magazines!
+        br
+      .group.center
+        article.one_quarter.first
+          i.icon.fa.fa-balance-scale
+          h4.font-x1.uppercase
+            a(href='#') Videos
+          p  Something Goes Here
+        article.one_quarter
+          i.icon.fa.fa-bank
+          h4.font-x1.uppercase
+            a(href='#') News
+          p Something Goes Here
+        article.one_quarter
+          i.icon.fa.fa-plane
+          h4.font-x1.uppercase
+            a(href='#') More Ebooks
+          p Something Goes Here
+        article.one_quarter
+          i.icon.fa.fa-graduation-cap
+          h4.font-x1.uppercase
+            a(href='#') More Emags
+          p Something Goes Here
+      .clear
+
+
