@@ -1,0 +1,36 @@
+extends layout
+
+block content
+  .wrapper.row0
+    #topbar.hoc.clear
+  .wrapper.row1
+    header#header.hoc.clear
+      #logo.fl_left
+        h1
+          a(href='about') Welcome to Iris
+  .wrapper.row2
+    nav#mainav.hoc.clear
+      ul.clear
+        li.active
+          a(href='about') Home
+        if !currentUser
+          li
+            a.nav-item.nav-link(href='register') Sign Up
+        li
+          a(href='profile') My Library
+        li
+          a(href='contact') Contact
+        if currentUser
+          div(style='margin-top: .75rem;')        
+            h5
+              img.avatar.img-circle(src='/images/avatar.png', alt='avatar')
+              | #{name}
+              a.btn.btn-light.pull-md-right(href='/logout') Log out
+        else  
+          a.btn.btn-info.pull-md-right(href='login') Login
+
+        
+  .wrapper.bgded.overlay(style="background-image:url('images/cbp/backgrounds/poly.jpg');")
+    #pageintro.hoc.clear
+      article.introtxt
+        h2.heading Moby Dick

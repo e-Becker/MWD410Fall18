@@ -102,24 +102,39 @@ router.post('/register', function(req, res, next) {
     }
 });
 
-// GET /
-router.get('/profilex', function(req, res, next) {
-  return res.render('profilex', { title: 'Wat' });
+// GET /profile
+router.get('/profile', mid.requiresLogin, function(req, res, next) {
+  User.findById(req.session.userId)
+      .exec(function (error, user) {
+        if (error) {
+          return next(error);
+        } else {
+          return res.render('profile', { title: 'Profile', name: user.name });
+        }
+      });
 });
 
 // GET /about
 router.get('/about', function(req, res, next) {
-  return res.render('about', { title: 'About' });
-});
-
-// GET /home
-router.get('/profilx', function(req, res, next) {
-  return res.render('profilx', { title: 'Home' });
+  User.findById(req.session.userId)
+      .exec(function (error, user) {
+        if (error) {
+          return res.render('about', { title: 'Home' });
+        } else {
+          return res.render('about', { title: 'Home', name: user.name });
+        }
+	  });	
 });
 
 // GET /contact
 router.get('/contact', function(req, res, next) {
   return res.render('contact', { title: 'Contact' });
 });
+
+// GET /contact
+router.get('/moby', function(req, res, next) {
+  return res.render('moby', { title: 'Contact' });
+});
+
 
 module.exports = router;

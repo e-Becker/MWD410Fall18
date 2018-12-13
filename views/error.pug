@@ -21,11 +21,13 @@ block content
         li
           a(href='contact') Contact
         if currentUser
-          div
-            img.avatar.img-circle.hidden-xs-down(src='/images/avatar.png', alt='avatar')
-            a.btn.btn-light.pull-md-right(style='padding: 1rem;', href='/logout') Log out
+          div(style='margin-top: .75rem;')        
+            h5
+              img.avatar.img-circle(src='/images/avatar.png', alt='avatar')
+              | #{name}
+              a.btn.btn-light.pull-md-right(href='/logout') Log out
         else  
-          a.btn.btn-info.pull-md-right(style='padding: 1rem;', href='login') Login
+          a.btn.btn-info.pull-md-right(href='login') Login
 
         
   .wrapper.bgded.overlay(style="background-image:url('images/cbp/backgrounds/poly.jpg');")

@@ -6,14 +6,7 @@
 	width: 35px;
 	margin-right: 18px;
 	border: solid 2px rgba(255,255,255, .75);
-	margin-top: 0.75rem;
 	margin-left: 1rem;
-}
-.icn-person {
-	font-size: 50px;
-	border-radius: 50%;
-	border: solid 2px;
-	padding: .5rem;
 }
 
 h2 {
