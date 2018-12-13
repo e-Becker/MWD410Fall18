@@ -5,13 +5,6 @@ body { background-color: #006989 ;
 }
 
 
-#wrapper {background: rgba(0,0,0,0.5);
-    width: 80%;
-    height: 100%;
-
-    color: white;
-    padding-bottom: 10%;
-}
 /*For Editing the trending Page*/
 #trending { background: #4C76FF;
     width: 80%;
@@ -28,16 +21,6 @@ body { background-color: #006989 ;
     margin-right: auto;
     width: 50%;
 }*/
-header {font-family: Stupid Meeting_D;
-    background: url();
-    background-image: url();
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    text-align: bottom-left;
-    border: 1px solid #000;
-    color: white;
-    text-align: center
-}
 a
 {
     text-decoration: none;
@@ -133,22 +116,6 @@ a:hover
  * Make this absolute positioned
  * at the top left of the screen
  */
-#menu
-{
-    position: absolute;
-    width: 300px;
-    margin: -100px 0 0 -50px;
-    padding: 50px;
-    padding-top: 125px;
-
-    background: #ededed;
-    list-style-type: none;
-
-    transform-origin: 0% 0%;
-    transform: translate(-100%, 0);
-
-    transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
-}
 
 #menu li
 {
