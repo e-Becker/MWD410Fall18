@@ -83,10 +83,6 @@ ${eproducts.map(function(tempMag) {
 
 This project has been released as of 12.20.18. Group members may continue to develop this project individually.
 
-# Support
-
-Contact through Twitter @IRISpublishing.
-
 # Authors
 * Erin Becker <cbecker@hartford.edu>
 * Patrick Burke <pburke@hartford.edu>
