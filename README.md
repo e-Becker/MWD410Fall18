@@ -2,7 +2,7 @@
 
 Iris is a browser based E-Reading application housing a library of both E-Magazines and E-Books. Featuring dynamically loading products, and a functioning registry & login accompanied with MongoDB server-side storage. The project is hosted through the University of Hartford. Students operated with an AGILE workflow, and as such, not everything that was developed for the site made it into the final version. In the process of creating the website, students configured an Ubuntu 16.04 server to host the website.
 
-<b>The site was temporarily hosted through the University of Hartford, and is no longer available.<b> 
+<b>The site was temporarily hosted through the University of Hartford, and is no longer available.</b> 
 
 
 ## :information_source: &nbsp;Walkthrough 
